@@ -63,8 +63,6 @@ def max_marks(list1):
 ![3a op 2](https://github.com/Tanug25/FindMaximum/assets/138849166/d7efee29-9caf-41c1-860b-4659020dedac)
 ![3a op 3](https://github.com/Tanug25/FindMaximum/assets/138849166/765b7103-34cd-436c-93ac-bdf6e575b23a)
 
-##Result:
-Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
 
 
 ## Result:
